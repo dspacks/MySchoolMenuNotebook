@@ -199,10 +199,9 @@ url_lunch = "https://menus.healthepro.com/organizations/2230/sites/14066/menus/1
 Contributions are welcome! Here are some ways you can help:
 
 1. **Report bugs** - Open an issue with details about the problem
-2. **Suggest features** - Share ideas for improvements
-3. **Submit pull requests** - Fix bugs or add new features
-4. **Improve documentation** - Help make the docs clearer
-5. **Test with your school** - Try it with different school districts
+2. **Submit pull requests** - Fix bugs or add new features
+3. **Improve documentation** - Help make the docs clearer
+4. **Test with your school** - Try it with different school districts
 
 ### Development Setup
 
